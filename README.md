@@ -1,5 +1,6 @@
 # ChemistWarehousePizzeria-Server
-## This is the server-side codebase of the ChemistWarehousePizzeria project.
+## This is the server-side and client-side codebase of the ChemistWarehousePizzeria project.
+## *Server side* is developed in **.Net Core 6**, and *client-side* is built in **ReactJs**
 
 ### Getting Started
 ### Follow these steps to get the project up and running on your local machine:
